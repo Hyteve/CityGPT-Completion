@@ -1,0 +1,2 @@
+generate/12_8_8_512_512_0.1_1e-3_1000meter.pth filter=lfs diff=lfs merge=lfs -text
+generate/128_5000_6_3_8_512_16_0.1_1000meter.pth filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,10 @@
+flask
+
+opencv-python-headless
+
+shapely==2.0.1
+
+torch==1.13.1
+
+torchvision==0.14.1
+

@@ -1,0 +1,13 @@
+build:
+  gpu: true
+  python_version: "3.10"
+  python_packages:
+    - "numpy"
+    - "flask"
+    - "opencv-python-headless"
+    - "shapely==2.0.1"
+    - "torch==1.13.1"
+    - "torchvision==0.14.1"
+    - "pillow"
+predict: "predict.py:Predictor"
+
